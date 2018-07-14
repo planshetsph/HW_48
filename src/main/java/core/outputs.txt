@@ -1,0 +1,31 @@
+DOM_Parser:
+
+Key Word: 	 sony
+Engine: 		 phx-kadu1
+Version: 	 kadu.6918
+Response time: 	 324
+Number of deals: 10
+
+DOM_XPath_Parser:
+
+Key Word: 	 sony
+Engine: 		 phx-kadu1
+Version: 	 kadu.6918
+Response time: 	 324
+Number of deals: 10
+
+SAX_Parser:
+
+Key Word: 	 sony
+Engine: 		 phx-kadu1
+Version: 	 kadu.6918
+Number of deals: 10
+Response time:	 324
+
+StAX_Parser:
+
+Key Word: 	 sony
+Engine: 		 phx-kadu1
+Version: 	 kadu.6918
+Number of deals: 10
+Response time: 	 324
